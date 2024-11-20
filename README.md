@@ -40,10 +40,12 @@ Have your API key ready, or create one [here](https://platform.openai.com/docs/o
 
 **Free Twilio Account**
 Log into you Twilio account or create one [here](https://www.twilio.com/en-us)
+
 Create a new free phone number
 
 **Free Ngrok Account**
 Please hve you Ngrok account authtoken or get one [here](https://ngrok.com/)
+
 Set up your ngrok auth token: ngrok config add-authtoken "Your Token"
 
 
