@@ -32,7 +32,9 @@ The project leverages the following technologies:
 
 
 # Getting Started
+
 For this project you will need **Python version 3.11.10**
+
 To test this project locally you will need access to an OpenAI API Key, a free Twilio account, and a free Ngrok account.
 
 **OpenAI API Key**
