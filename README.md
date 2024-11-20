@@ -94,6 +94,7 @@ It is best to create a virtual environment to manage the required dependencies a
 
 Copy the Forwarding url and navigate to your twilio account. 
 Go to you Account Dashboard -> Develop -> # Phone Numbers -> Manage -> Active Numbers
+
 Then under Voice Configurations, where it says "A call comes in". Paste you copied forwarding url in the "URL" section with a /voice at the end of the url
 
 For example if you forwarding url was: http://forwarding add /voice to make it http://forwarding/voice
