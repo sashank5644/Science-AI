@@ -49,7 +49,7 @@ Create a new free phone number
 
 **Free Ngrok Account**
 
-Please hve you Ngrok account authtoken or get one [here](https://ngrok.com/)
+Please have you Ngrok account authtoken or get one [here](https://ngrok.com/)
 
 Set up your ngrok auth token: ngrok config add-authtoken "Your Token"
 
