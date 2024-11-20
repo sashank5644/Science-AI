@@ -1,6 +1,6 @@
 # Welcome to Science AI!
 
-This project was developed during the Open Source for AI Hackathon hosted at Microsoft's headquarters. Within just 6 hours, our team designed and built this innovative voice-enabled AI system, which placed 2nd in the Hackathon.
+This project was developed during the **Open Source for AI Hackathon hosted at Microsoft's headquarters**. Within just 6 hours, our team designed and built this innovative voice-enabled AI system, which placed 2nd in the Hackathon.
 
 The Science AI project is a testament to our ability to tackle complex challenges, leverage cutting-edge AI tools, and deliver impactful solutions under tight deadlines.
 
